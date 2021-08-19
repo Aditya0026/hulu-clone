@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&family=Rubik:wght@400;600;700&display=swap");
 
-* {
+* { 
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -145,7 +145,7 @@ h3 {
 
 /* sub header */
 .sub-header {
-  height: 151px;
+   height: 151px; 
   position: relative;
 
   display: grid;
