@@ -340,7 +340,7 @@ h3 {
   width: 400px;
   background: #fff;
   color: black;
-  animation: modalopen 0.2s;
+  animation: modalopen 0.1s;
 }
 @keyframes modalopen {
   from {
